@@ -1,4 +1,4 @@
-# Hi, I'm Krishal 👋
+# Hi, I'm Krishal Thapaliya 👋
 **Robotics & AI enthusiast • Learning JavaScript • Aspiring Data Scientist**
 
 Passionate about AI, ML, and robotics, I’m an computer engineering student who loves turning ideas into intelligent systems — from Arduino-powered bots to data-driven models. Future AI/ML Engineer in the making .
