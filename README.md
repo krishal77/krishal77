@@ -61,9 +61,8 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 
 ## 📈 GitHub Stats
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=<krishal77>&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=<krishal77>&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=krishal77&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishal77&show_icons=true&count_private=true)
 
 ---
 
