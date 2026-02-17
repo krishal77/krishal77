@@ -55,7 +55,7 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 ## 📫 Get in touch
 - Email: `kthapaliya77@gmail.com`  
 - LinkedIn: `www.linkedin.com/in/krishal-thapaliya-926627337`  
-
+-![Profile Views](https://komarev.com/ghpvc/?username=krishal77&color=blue)
 
 ---
 
