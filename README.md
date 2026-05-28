@@ -1,4 +1,4 @@
-# Hi, I'm Krishal Thapaliya 👋
+# Hi, I'm Krishal Thapaliya 
 **Robotics & AI enthusiast • Learning JavaScript • Aspiring Data Scientist**
 
 Passionate about AI, ML, and robotics, I’m an computer engineering student who loves turning ideas into intelligent systems — from Arduino-powered bots to data-driven models. Future AI/ML Engineer in the making .
@@ -6,15 +6,15 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 
 ## 🛠️ Skills & Tech
 
+- **Web Development:** HTML, CSS3, JavaScript, React JS, Node.js, Express.js, MongoDB  
+- **Embedded Programming:** C/C++, Arduino IDE, Platform IO  
+- **Tools:** Git, GitHub, VS Code, Postman
+- 
 ### ⚙️ Hardware
 - **Microcontrollers:** Arduino, ESP32, Raspberry Pi  
 - **Design Tools:** KiCAD, PCB Design, Circuit Design  
 - **Projects:** Micromouse, IoT Systems, Robotics
 
-### 💻 Software
-- **Web Development:** HTML, CSS3, JavaScript, React JS  
-- **Embedded Programming:** C/C++, Arduino IDE, Platform IO  
-- **Tools:** Git, GitHub, VS Code  
 
 ### 🎯 Interests
 - **Artificial Intelligence (AI) & Machine Learning (ML):** Exploring how intelligent algorithms can make systems learn and adapt.  
@@ -29,6 +29,9 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 <!-- Robotics & Hardware -->
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
@@ -39,6 +42,7 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?logo=platformio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 <!-- Interests -->
 ![AI/ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
