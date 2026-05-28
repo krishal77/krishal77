@@ -9,7 +9,7 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 - **Web Development:** HTML, CSS3, JavaScript, React JS, Node.js, Express.js, MongoDB  
 - **Embedded Programming:** C/C++, Arduino IDE, Platform IO  
 - **Tools:** Git, GitHub, VS Code, Postman
-- 
+
 ### ⚙️ Hardware
 - **Microcontrollers:** Arduino, ESP32, Raspberry Pi  
 - **Design Tools:** KiCAD, PCB Design, Circuit Design  
@@ -59,14 +59,6 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 ## 📫 Get in touch
 - Email: `kthapaliya77@gmail.com`  
 - LinkedIn: `www.linkedin.com/in/krishal-thapaliya-926627337`  
-![Profile Views](https://komarev.com/ghpvc/?username=krishal77&color=blue)
-
----
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=krishal77&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishal77&show_icons=true&count_private=true)
 
 ---
 
@@ -76,4 +68,4 @@ Passionate about AI, ML, and robotics, I’m an computer engineering student who
 
 ---
 
-Thanks for visiting my profile — I learn by building, so feel free to check out my repos or reach out if you want to collaborate! ✨
+Thanks for visiting my profile — I learn by building, so feel free to check out my repos or reach out if you want to collaborate! 
